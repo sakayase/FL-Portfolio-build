@@ -68820,8 +68820,9 @@ q=t.p
 return new A.bs(B.l2,A.dF(o,A.f8(A.a([new A.bs(B.l_,A.et(A.lp(A.a([s,A.et(A.f8(A.a([r,A.cp(p.f,o,!0,A.a4(a).p3.z,B.bY)],q),B.kN,B.eA,B.N),o,80)],q),B.Q,B.eA,B.N),o,m),o),A.cp(p.r,o,o,A.a4(a).p3.z,o)],q),B.Q,B.ar,B.N),o,B.ju,o,o,o,o,o),o)}s=p.c
 if(s!=null){s=A.YX(s)
 s=A.dF(o,new A.bs(B.l0,s,o),o,B.jt,o,o,o,o,o)}else s=B.ct
-r=t.p
-return new A.bs(B.l2,A.dF(o,A.f8(A.a([new A.bs(B.l_,A.et(A.lp(A.a([A.lp(A.a([s,A.dF(o,A.cp(p.e,B.bZ,!0,A.a4(a).p3.as,o),o,new A.aD(0,n*0.38,0,1/0),o,o,o,o,o)],r),B.Q,B.ar,B.N),A.dF(o,A.cp(p.f,o,o,A.a4(a).p3.z,B.fa),o,B.yq,o,o,o,o,o)],r),B.Q,B.eA,B.N),o,m),o),A.cp(p.r,o,o,A.a4(a).p3.z,o)],r),B.Q,B.ar,B.N),o,B.ju,o,o,o,o,o),o)}}
+r=n<1900?n*0.38:700
+q=t.p
+return new A.bs(B.l2,A.dF(o,A.f8(A.a([new A.bs(B.l_,A.et(A.lp(A.a([A.lp(A.a([s,A.dF(o,A.cp(p.e,B.bZ,!0,A.a4(a).p3.as,o),o,new A.aD(0,r,0,1/0),o,o,o,o,o)],q),B.Q,B.ar,B.N),A.dF(o,A.cp(p.f,o,o,A.a4(a).p3.z,B.fa),o,B.yq,o,o,o,o,o)],q),B.Q,B.eA,B.N),o,m),o),A.cp(p.r,o,o,A.a4(a).p3.z,o)],q),B.Q,B.ar,B.N),o,B.ju,o,o,o,o,o),o)}}
 A.Em.prototype={
 O(a){var s,r=A.bT(a,null,t.w).w.a.a<1000?20:200,q=$.SP()
 q=q.gI(q)
